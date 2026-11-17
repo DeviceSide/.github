@@ -7,7 +7,7 @@
     "helpers:pinGitHubActionDigestsToSemver"
   ],
   "schedule": [
-    "before 6am on monday"
+    "on monday"
   ],
   "timezone": "Europe/London",
   "pre-commit": {
